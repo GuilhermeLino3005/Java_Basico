@@ -1,7 +1,7 @@
-package edu.guilherme.modulo_01;
-public class MinhaClasse {
-    
-     /*declarando metodos 
+package edu.guilherme.modulos.anatomiaclasses;
+
+public class MinhaClasse{
+      /*declarando metodos 
      *   Sintaxe: 
      *        TipoRetorno NomeObjetivoNoInfinitivo parametro(s)    
      */
@@ -9,6 +9,7 @@ public class MinhaClasse {
      public static String nomeCompleto(String primeiroNome, String segundoNome){
           return "Resuldado do metodo: "+ primeiroNome.concat(" ").concat(segundoNome);
      }
+
 
      public static void main(String[] args){
           //declarando variaveis 
@@ -23,7 +24,5 @@ public class MinhaClasse {
           boolean verdadeira = true;
 
           dataNascimento = 2004;   
-     }     
-     
-           
+     } 
 }
