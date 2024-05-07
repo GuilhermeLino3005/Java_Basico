@@ -1,4 +1,4 @@
-package edu.guilherme.modulos$02.estruturacondicionais;
+package edu.guilherme.modulos.estruturacondicionais;
 import java.util.Scanner;;
 public class condicionalTernario {
      public static void main(String[] args) {

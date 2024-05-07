@@ -1,4 +1,4 @@
-package edu.guilherme.modulos$02.estruturacondicionais;
+package edu.guilherme.modulos.estruturacondicionais;
 
 public class switchcase {
      public static void main(String[] args) {
