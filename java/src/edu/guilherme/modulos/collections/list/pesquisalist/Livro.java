@@ -1,4 +1,4 @@
-package edu.guilherme.modulos.collections.pesquisalist;
+package edu.guilherme.modulos.collections.list.pesquisalist;
 
 public class Livro {
      //Atributos

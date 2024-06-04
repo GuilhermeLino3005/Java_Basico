@@ -1,4 +1,4 @@
-package edu.guilherme.modulos.collections.listatarefa;
+package edu.guilherme.modulos.collections.list.listatarefa;
 
 import java.util.ArrayList;
 import java.util.List;

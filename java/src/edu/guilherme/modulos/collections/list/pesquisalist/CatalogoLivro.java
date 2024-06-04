@@ -1,4 +1,4 @@
-package edu.guilherme.modulos.collections.pesquisalist;
+package edu.guilherme.modulos.collections.list.pesquisalist;
 
 import java.util.ArrayList;
 import java.util.List;

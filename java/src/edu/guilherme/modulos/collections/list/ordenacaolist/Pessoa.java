@@ -1,4 +1,4 @@
-package edu.guilherme.modulos.collections.ordenacaolist;
+package edu.guilherme.modulos.collections.list.ordenacaolist;
 
 import java.util.Comparator;
 
